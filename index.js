@@ -438,7 +438,7 @@ let materias = [
 ]
 
 app.get("/",(request, response) => {
-    response.send("<h1>Espero esto te sea de ayuda</h1>")
+    response.send("<h1>Espero esto te sea de ayuda 😉</h1>")
 })
 
 app.get("/lgti/materias",(request,response) => {
