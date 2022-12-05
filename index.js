@@ -377,7 +377,7 @@ let materias = [
     },
     {
         "correlativas" : [{"materia" : ""}],
-        "nombre": "Optativa 1 - Ingenieria de requerimientos",
+        "nombre": "Optativa 1",
         "tipo": "Cuatrimestral",
         "cuatrimestre": 8,
         "CargaSemanal": 4,
