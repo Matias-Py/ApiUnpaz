@@ -438,7 +438,7 @@ let materias = [
 ]
 
 app.get("/",(request, response) => {
-    response.send("<h1>Espero esto te sea de ayuda 😉</h1>")
+    response.send("<div><p>Ruta de todas las materias: https://apiunpaz-production.up.railway.app/lgti/materias</p><p>Ruta de una materia individual: https://apiunpaz-production.up.railway.app/lgti/materias/{id} </p></div>")
 })
 
 app.get("/lgti/materias",(request,response) => {
