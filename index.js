@@ -399,7 +399,7 @@ let materias = [
         "cuatrimestre": 8,
         "CargaSemanal": 6,
         "cargaTotal": 96,
-        "id": "36",
+        "id": 36,
         "temas": "La comercialización en las organizaciones, los negocios y la sociedad. Valor. Calidad de Servicio al Cliente. Ética. Marketing y Sociedad. Marketing no empresarial. Organización, Planeamiento y Estrategias Competitivas. Conducta de compra del consumidor. Marketing de negocio a negocio. Segmentación, Diferenciación, Posicionamiento. Inteligencia Comercial e Investigación de mercado. Producto. Servicio. Logística y Canales de distribución. Comunicaciones integradas. Publicidad y RRPP. Promoción — Marketing Directo y Ventas Personales. Precios. El mercado global. El Marketing en la era digital. "
     },
     {
