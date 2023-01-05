@@ -433,7 +433,7 @@ let materias = [
         "CargaSemanal": 4,
         "cargaTotal": 64,
         "id": 39,
-        "temas": "Dirección de Proyectos. Identificación de necesidades. La Dirección de Proyectos. Gestión de requisitos. Gestión de Integración. Gestión del Alcance. Gestión de Tiempos y la gestión de Costos. Gestión de la configuración. Gestión del mantenimiento. Rentabilidad. Financiamiento. Amortización de proyectos. Proyectos de 18:D "
+        "temas": "Dirección de Proyectos. Identificación de necesidades. La Dirección de Proyectos. Gestión de requisitos. Gestión de Integración. Gestión del Alcance. Gestión de Tiempos y la gestión de Costos. Gestión de la configuración. Gestión del mantenimiento. Rentabilidad. Financiamiento. Amortización de proyectos. Proyectos de I&D "
     },
     {
         "correlativas" : {"materia":"Ingeniería de Software 2","materia2":"Laboratorio de Software","materia2":"Base de datos 2"},
