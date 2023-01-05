@@ -478,6 +478,72 @@ let materias = [
         "cargaTotal": 96,
         "id": 43,
         "temas": "Impacto de los sistemas de información en las organizaciones. Modelos de calidad, maduración de procesos y abordaje de problemáticas de gestión de proyectos. Propiedad intelectual. Licencias de software. Desarrollo de un proyecto de sistema de información, modelo de proceso, servicio o producto que aplique e  integre los contenidos teóricos y prácticos aprendidos durante la carrera. "
+    },
+    {
+        "correlativas" : {"materia":"Ninguna"},
+        "nombre": "OP1- Ingeniería de Requerimientos ",
+        "tipo": "Cuatrimestral",
+        "año" : "0",
+        "cuatrimestre": 9,
+        "CargaSemanal": 4,
+        "cargaTotal": 64,
+        "id": 44,
+        "temas": "Introducción a la Ingeniería de Requerimientos. Importancia de los Requerimientos. Modelo elicitación-modelización- validación. Elicitación Requerimientos. Producto de la Ingeniería de "
+    },
+    {
+        "correlativas" : {"materia":"Ninguna"},
+        "nombre": "OP2- Diseño y Arquitectura de Software",
+        "tipo": "Cuatrimestral",
+        "año" : "0",
+        "cuatrimestre": 9,
+        "CargaSemanal": 4,
+        "cargaTotal": 64,
+        "id": 45,
+        "temas": "Componentes e interacciones (clientes y servidores, bases de datos, niveles en sistemas jerárquicos). Relación del diseño y arquitectura con los requerimientos. Tipos de arquitecturas. Patrones de diseño. Arquitectura marco N-capas. Capa de infraestructura de persistencia de datos. Capa de modelo de dominio. Capa de aplicación. Capa de servicios distribuidos. Capa de presentación. Capas de infraestructura transversal."
+    },
+    {
+        "correlativas" : {"materia":"Paradigmas de Programación"},
+        "nombre": "OP3 - Programación Concurrente y Paralela",
+        "tipo": "Cuatrimestral",
+        "año" : "0",
+        "cuatrimestre": 9,
+        "CargaSemanal": 4,
+        "cargaTotal": 64,
+        "id": 46,
+        "temas": "Introducción a la programación paralela. Introducción a las tareas paralelas. Tareas e Hilos. Primitivas de sincronización. Programación paralela: diseño de aplicaciones. "
+    },
+    {
+        "correlativas" : {"materia":"Ninguna"},
+        "nombre": "OP4 - Marketing digital ",
+        "tipo": "Cuatrimestral",
+        "año" : "0",
+        "cuatrimestre": 9,
+        "CargaSemanal": 4,
+        "cargaTotal": 64,
+        "id": 47,
+        "temas": "Marca. La marca en internet: comportamientos. Negocios digitales. Diseño y elaboración de estrategias de Marketing digital y comercio electrónico. Herramientas de comunicación y venta online. Difusión y rentabilidad de los proyectos a través de la web. Casos de éxito. Análisis. Posicionamiento orgánico vs posicionamiento pago. Marketing de sitios web. Las redes sociales. "
+    },
+    {
+        "correlativas" : {"materia":"Comercialización"},
+        "nombre": "OP5 - Desarrollo de productos y servicios",
+        "tipo": "Cuatrimestral",
+        "año" : "0",
+        "cuatrimestre": 9,
+        "CargaSemanal": 4,
+        "cargaTotal": 64,
+        "id": 48,
+        "temas": "Fundamentos del desarrollo de nuevos productos y servicios. Categorías de nuevos productos y servicios. Análisis de carteras de productos y servicios. Estrategias de desarrollo de productos y mercados. Proceso de desarrollo de nuevos productos y servicios (generación y selección de ideas, desarrollo y prueba de concepto, análisis de factibilidad técnica. Tendencias en negocios de comercio electrónico. Organización del desarrollo de nuevos productos y servicios Análisis de nuevos negocios (generación de valor para el cliente, segmento de mercado, diferenciación y posicionamiento, medición de resultados, evaluación de riesgos). Costos de desarrollo: costo de entrada, permanencia y salida. "
+    },
+    {
+        "correlativas" : {"materia":"Ninguna"},
+        "nombre": "OP6 - Competencias emprendedoras",
+        "tipo": "Cuatrimestral",
+        "año" : "0",
+        "cuatrimestre": 9,
+        "CargaSemanal": 4,
+        "cargaTotal": 64,
+        "id": 49,
+        "temas": "Crisis de la sociedad salarial. Formas de organización. Gestión y liderazgo de proyectos: trabajo en equipo. El trabajo y la gestión como pilares de los proyectos. Innovación, ¿qué es? Innovación Social. Relaciones con usuarios, clientes y proveedores, la comercialización digital. "
     }
 ]
 
